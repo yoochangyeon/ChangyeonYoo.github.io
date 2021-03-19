@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "About"
+  - title: "소개"
     url: /about/
-  - title: "Categories"
+  - title: "카테고리"
     url: /categories/

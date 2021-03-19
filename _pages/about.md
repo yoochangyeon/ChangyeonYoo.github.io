@@ -1,9 +1,10 @@
 ---
-title: "이 블로그 설명서"
+title: "기억보단 기록을"
 permalink: /about/
 layout: single
 ---
 
-## changyeonyoo.github.io 블로그
+컴퓨터공학과 재학중인 대학생 백엔드 개발자입니다.
+Spring, Spring Boot를 다루고 있습니다.
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+공부한 것들을 기록합니다.
