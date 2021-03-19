@@ -4,4 +4,10 @@ var store = [{
         "tags": ["Blog"],
         "url": "/blog/test/",
         "teaser": null
+      },{
+        "title": "github blog final test",
+        "excerpt":"깃허브 마지막 테스트 입니다.  테스트  테스트  테스트      테스트            테스트          ","categories": ["Test"],
+        "tags": ["Test, Github"],
+        "url": "/test/finaltest/",
+        "teaser": null
       }]
