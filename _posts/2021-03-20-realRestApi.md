@@ -14,10 +14,12 @@ tags:
 ## 들어가기 앞서 출처를 남깁니다
 
 이 글은 유튜브 채널 'Naver D2'의 
+
 '그런 REST API로 괜찮은가?' by [이응준](https://blog.npcode.com)님의 영상을 보고 작성했습니다.
 
-슬라이드: (https://slides.com/eungjun/rest#/7)
-데뷰 영상: (https://tv.naver.com/v/2292653)
+[슬라이드](https://slides.com/eungjun/rest#/7)
+
+[데뷰 영상](https://tv.naver.com/v/2292653)
 
 ## REST가 나오게 된 이유
 
@@ -385,5 +387,3 @@ REST API를 바르게 따르기 위해서는 **custom media type이나 profile l
 
 - HTTP API라고 부를 수 있다
 - 그냥 이대로 REST API라고 부를 수 있다. (Roy T. Fielding이 싫어한다.)
-
-##### 
