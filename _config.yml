@@ -253,6 +253,7 @@ defaults:
       comments: false # 블로그 댓글 기능 true
       share: true
       related: true
+      date: true
 
   # _pages
   - scope:
