@@ -16,8 +16,6 @@ tags:
 이 글은 유튜브 채널 'Naver D2'의 
 '그런 REST API로 괜찮은가?' by [이응준](https://blog.npcode.com)의 영상을 보고 작성했습니다.
 
-[슬라이드](https://slides.com/eungjun/rest#/7), [데뷰 영상](https://tv.naver.com/v/2292653)
-
 ## REST가 나오게 된 이유
 
 ### WEB (1991)
