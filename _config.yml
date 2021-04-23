@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "기억보다 기록을"
+title                    : "같은 실수의 반복"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "유창연"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "유창연"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "학점 따려고 노력중인 백엔드 개발자"
+  bio              : "학점과 씨름중인 백엔드 개발자"
   location         : "South Korea"
   email            :
   links:
